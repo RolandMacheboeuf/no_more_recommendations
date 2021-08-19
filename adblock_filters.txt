@@ -5,7 +5,7 @@
 ! Expires: 5 days
 ! Homepage: https://github.com/RolandMacheboeuf
 !
-||youtube.com/
+youtube.com/
 youtube.com##.style-scope.ytd-rich-grid-renderer
 youtube.com###secondary
 youtube.com##.style-scope.ytd-guide-renderer
