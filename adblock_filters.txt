@@ -5,8 +5,15 @@
 ! Expires: 5 days
 ! Homepage: https://github.com/RolandMacheboeuf
 !
+
+!!!!!!!!!!!!!!!!!!!!!
+! Filtering all recommendations from Youtube
+!!!!!!!!!!!!!!!!!!!!!
 youtube.com##.style-scope.ytd-two-column-browse-results-renderer
 youtube.com##.style-scope.ytd-watch-next-secondary-results-renderer
+youtube.com##.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-show-tiles
+
+! Because filters on mobile version doesn't seem to work, I simply block the Youtube mobile version for now
 m.youtube.com
 !m.youtube.com##.rich-grid-renderer-contents
 !m.youtube.com##.scwnr-content
