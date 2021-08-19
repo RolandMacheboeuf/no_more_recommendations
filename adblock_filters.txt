@@ -8,3 +8,9 @@
 youtube.com##.style-scope.ytd-two-column-browse-results-renderer
 youtube.com##.style-scope.ytd-watch-next-secondary-results-renderer
 m.youtube.com
+!m.youtube.com##.rich-grid-renderer-contents
+!m.youtube.com##.scwnr-content
+!m.youtube.com##.video-thumbnail-container-large.center
+!m.youtube.com##.cover.video-thumbnail-img.video-thumbnail-bg
+!m.youtube.com##.details
+!m.youtube.com##.large-media-item-info.cbox
