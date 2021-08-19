@@ -10,3 +10,4 @@ youtube.com###secondary
 youtube.com##.style-scope.ytd-guide-renderer
 youtube.com##.ytp-videowall-still-info-content
 youtube.com##.ytp-videowall-still-image
+youtube.com###notification-count
