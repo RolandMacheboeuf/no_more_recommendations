@@ -2,9 +2,10 @@
 ! Version: 0.2
 ! Title: No More Recommendations
 ! Last modified:
-! Expires: 400 days (update frequency)
+! Expires: 5 days
 ! Homepage: https://github.com/RolandMacheboeuf
 !
+||youtube.com/
 youtube.com##.style-scope.ytd-rich-grid-renderer
 youtube.com###secondary
 youtube.com##.style-scope.ytd-guide-renderer
