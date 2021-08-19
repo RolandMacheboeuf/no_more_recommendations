@@ -1,0 +1,12 @@
+[Adblock Plus 2.0]
+! Version:
+! Title:
+! Last modified:
+! Expires: 4 days (update frequency)
+! Homepage:
+!
+youtube.com##.style-scope.ytd-rich-grid-renderer
+youtube.com###secondary
+youtube.com##.style-scope.ytd-guide-renderer
+youtube.com##.ytp-videowall-still-info-content
+youtube.com##.ytp-videowall-still-image
